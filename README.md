@@ -226,7 +226,7 @@ After payment completion, your system should handle callbacks.
 
 ---
 
-# 💸 2. Wallet Payout
+# 💸 5. Wallet Payout
 
 Initiate a **mobile money payout** to a customer's mobile wallet.
 
